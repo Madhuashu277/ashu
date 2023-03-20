@@ -1,4 +1,5 @@
 git is fast version of the system
 git is light weight
-git is widely used tools
+git is widejdgfeheUDIly used tools
 ansible is easy to run
+kubernents is comprehensive tools
